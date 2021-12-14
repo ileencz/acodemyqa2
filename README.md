@@ -1,5 +1,6 @@
 ## 1st Home Work 
 **My choice is an IT specialist**
+
 ![This is an image](https://github.com/ileencz/acodemyqa2/blob/feature/create_readme/index.jpg)
 
 The choice of a profession is very important, since the work should bring profit that satisfies the needs of a person, and while working, a person should feel that he is doing what he wants, and not what he has to do.
