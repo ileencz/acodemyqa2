@@ -292,7 +292,6 @@ public class Homework {
         System.out.println(b * c);
         System.out.println(3 * (10 + 3));
 
-
 //I have an analytical mindset, I quickly remember new information and am not afraid of constructive criticism.I still strive for learning and development.
 
         String firstPart = "I have an analytical mindset";
@@ -307,8 +306,6 @@ public class Homework {
         System.out.printf("%s %s %s %s.\n",firstPart,secondPart,thirdPart,fourthPart);
 
         System.out.println(firstPart+", "+secondPart+" "+thirdPart +". "+fourthPart+".");
-
-
 
     }
 }
