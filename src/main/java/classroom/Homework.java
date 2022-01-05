@@ -304,7 +304,6 @@ public class Homework {
         System.out.println(fourthPart);
 
         System.out.printf("%s %s %s %s.\n",firstPart,secondPart,thirdPart,fourthPart);
-
         System.out.println(firstPart+", "+secondPart+" "+thirdPart +". "+fourthPart+".");
 
     }
