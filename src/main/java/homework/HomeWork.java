@@ -1,11 +1,11 @@
-package classroom;
+package homework;
 
-public class HomeWork1 {
+public class HomeWork {
     public static void main(String[] args) {
 
-    //Integral example
+        //Integral example
         //  Byte
-        byte  clothingSize = 36;
+        byte clothingSize = 36;
         System.out.println(clothingSize);
 
         byte studentsInClass = 22;
@@ -110,8 +110,8 @@ public class HomeWork1 {
         int populationOfRiga = 614618;
         System.out.println(populationOfRiga);
 
-        int LuznikiStadiumSeats = 81000;
-        System.out.println(LuznikiStadiumSeats);
+        int luznikiStadiumSeats = 81000;
+        System.out.println(luznikiStadiumSeats);
 
         int blondsHears = 150000;
         System.out.println(blondsHears);
@@ -301,8 +301,8 @@ public class HomeWork1 {
         String fourthPart = "I still strive for learning and development";
         System.out.println(fourthPart);
 
-        System.out.printf("%s %s %s %s.\n",firstPart,secondPart,thirdPart,fourthPart);
-        System.out.println(firstPart+", "+secondPart+" "+thirdPart +". "+fourthPart+".");
+        System.out.printf("%s %s %s %s.\n", firstPart, secondPart, thirdPart, fourthPart);
+        System.out.println(firstPart + ", " + secondPart + " " + thirdPart + ". " + fourthPart + ".");
 
     }
 }
