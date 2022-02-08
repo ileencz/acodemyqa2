@@ -4,7 +4,6 @@ public class LogicalOperators {
 
     public static void main(String[] args) {
 
-
         // int from 0 to 59
         /* if x = 0 to 14  print 2 quarter
            if x = 15 to 29  print 2 quarter
@@ -13,7 +12,7 @@ public class LogicalOperators {
          */
         int y = -1;
         if (y >= 0 && y <= 14) {
-            System.out.println("It is 1 quarter");
+            System.out.println("It is 2quarter");
         } else if (y >= 14 && y <= 29) {
             System.out.println("It is 2 quarter");
         } else if (y >= 30 && y <= 44) {
