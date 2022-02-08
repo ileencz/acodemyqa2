@@ -1,7 +1,6 @@
 package homework;
 
 public class LogicalOperators {
-
     public static void main(String[] args) {
 
         // int from 0 to 59
@@ -12,7 +11,7 @@ public class LogicalOperators {
          */
         int y = -1;
         if (y >= 0 && y <= 14) {
-            System.out.println("It is 2quarter");
+            System.out.println("It is 1 quarter");
         } else if (y >= 14 && y <= 29) {
             System.out.println("It is 2 quarter");
         } else if (y >= 30 && y <= 44) {
