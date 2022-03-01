@@ -25,7 +25,7 @@ public class AboutAnimals {
         System.out.println("");
 
         //About animal energy
-        Animal cat = new Animal("Siberian", "White", "Borja");
+        Animal cat = new Animal("Siberian", "Black", "Borja");
         System.out.println(cat.getAnimalBreed() + " " + cat.getAnimalColor() + " " + cat.getAnimalName());
         cat.feed();
         cat.walk();
