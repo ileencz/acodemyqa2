@@ -42,8 +42,9 @@ public class Animal {
             System.out.println("I want to walk!");
         }
     }
-    public void play(){
-        if(energyCount==-1){
+
+    public void play() {
+        if (energyCount == -1) {
             System.out.println("So bored today");
         } else {
             energyCount--;
@@ -51,8 +52,8 @@ public class Animal {
         }
     }
 
-    public void train(){
-        if(energyCount==-1){
+    public void train() {
+        if (energyCount == -1) {
             System.out.println("Training was so energy.");
         } else {
             energyCount--;
@@ -60,13 +61,12 @@ public class Animal {
         }
     }
 
-    public void sleep(){
-        if(energyCount==-1){
+    public void sleep() {
+        if (energyCount == -1) {
             System.out.println("I play today so long.");
         } else {
             energyCount--;
             System.out.println("I ran out of energy!");
         }
     }
-
 }

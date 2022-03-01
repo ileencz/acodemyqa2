@@ -3,8 +3,7 @@ package homework;
 public class AboutAnimals {
     public static void main(String[] args) {
 
-//Exercise about animals properties
-
+        //About animals properties
         Animal squirrel = new Animal("Sciurus Aberti", "Gray", "Pipa");
         System.out.println(squirrel.getAnimalBreed() + " " + squirrel.getAnimalColor() + " " + squirrel.getAnimalName());
 
@@ -25,7 +24,7 @@ public class AboutAnimals {
 
         System.out.println("");
 
-//Exercise about animal energy
+        //About animal energy
         Animal cat = new Animal("Siberian", "White", "Borja");
         System.out.println(cat.getAnimalBreed() + " " + cat.getAnimalColor() + " " + cat.getAnimalName());
         cat.feed();
@@ -34,7 +33,6 @@ public class AboutAnimals {
         cat.play();
         cat.feed();
         cat.sleep();
-
     }
 }
 
