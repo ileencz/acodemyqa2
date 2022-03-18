@@ -1,6 +1,6 @@
 package homework;
 
-public class homeWork {
+public class homework {
     public static void main(String[] args) {
 
         //Integral example
